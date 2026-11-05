@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 478" width="960" height="478" role="img">
+<title>A write, a receipt, then an applied result</title><desc>Simulated recipe selection · normal.json</desc>
+<g font-family="DejaVu Sans,sans-serif">
+<rect x="0" y="0" width="960" height="478" fill="#e9f1f5" rx="20"/>
+<rect x="16" y="16" width="928" height="88" fill="#132b42" rx="14"/>
+<text x="34" y="55" fill="#ffffff" font-size="32">A write, a receipt, then an applied result</text>
+<text x="34" y="85" fill="#d1e5ef" font-size="20">Simulated recipe selection · normal.json</text>
+<text x="42" y="127" fill="#142e45" font-size="18">STEP</text>
+<text x="148" y="127" fill="#142e45" font-size="18">EVENT</text>
+<text x="354" y="127" fill="#142e45" font-size="18">RESULT</text>
+<text x="593" y="127" fill="#142e45" font-size="18">RECIPE</text>
+<text x="744" y="127" fill="#142e45" font-size="18">APPLIES</text>
+<rect x="16" y="136" width="928" height="49" fill="#ffffff" rx="10"/>
+<text x="45" y="169" fill="#142e45" font-size="23">1</text>
+<text x="148" y="169" fill="#142e45" font-size="23">write</text>
+<rect x="342" y="142" width="178" height="37" fill="#dfeaf2" rx="8"/>
+<text x="354" y="169" fill="#142e45" font-size="23">Buffered</text>
+<text x="594" y="169" fill="#142e45" font-size="23">small</text>
+<text x="748" y="169" fill="#142e45" font-size="23">0</text>
+<rect x="16" y="193" width="928" height="49" fill="#f5f9fb" rx="10"/>
+<text x="45" y="226" fill="#142e45" font-size="23">2</text>
+<text x="148" y="226" fill="#142e45" font-size="23">observe</text>
+<rect x="342" y="199" width="178" height="37" fill="#dfeaf2" rx="8"/>
+<text x="354" y="226" fill="#142e45" font-size="23">Waiting</text>
+<text x="594" y="226" fill="#142e45" font-size="23">small</text>
+<text x="748" y="226" fill="#142e45" font-size="23">0</text>
+<rect x="16" y="250" width="928" height="49" fill="#ffffff" rx="10"/>
+<text x="45" y="283" fill="#142e45" font-size="23">3</text>
+<text x="148" y="283" fill="#142e45" font-size="23">scan</text>
+<rect x="342" y="256" width="178" height="37" fill="#dfeaf2" rx="8"/>
+<text x="354" y="283" fill="#142e45" font-size="23">Accepted</text>
+<text x="594" y="283" fill="#142e45" font-size="23">small</text>
+<text x="748" y="283" fill="#142e45" font-size="23">0</text>
+<rect x="16" y="307" width="928" height="49" fill="#f5f9fb" rx="10"/>
+<text x="45" y="340" fill="#142e45" font-size="23">4</text>
+<text x="148" y="340" fill="#142e45" font-size="23">observe</text>
+<rect x="342" y="313" width="178" height="37" fill="#dfeaf2" rx="8"/>
+<text x="354" y="340" fill="#142e45" font-size="23">Accepted</text>
+<text x="594" y="340" fill="#142e45" font-size="23">small</text>
+<text x="748" y="340" fill="#142e45" font-size="23">0</text>
+<rect x="16" y="364" width="928" height="49" fill="#ffffff" rx="10"/>
+<text x="45" y="397" fill="#142e45" font-size="23">5</text>
+<text x="148" y="397" fill="#142e45" font-size="23">scan</text>
+<rect x="342" y="370" width="178" height="37" fill="#d6f1e5" rx="8"/>
+<text x="354" y="397" fill="#104b38" font-size="23">Applied</text>
+<text x="594" y="397" fill="#142e45" font-size="23">large</text>
+<text x="748" y="397" fill="#142e45" font-size="23">1</text>
+<rect x="16" y="421" width="928" height="49" fill="#f5f9fb" rx="10"/>
+<text x="45" y="454" fill="#142e45" font-size="23">6</text>
+<text x="148" y="454" fill="#142e45" font-size="23">observe</text>
+<rect x="342" y="427" width="178" height="37" fill="#d6f1e5" rx="8"/>
+<text x="354" y="454" fill="#104b38" font-size="23">Applied</text>
+<text x="594" y="454" fill="#142e45" font-size="23">large</text>
+<text x="748" y="454" fill="#142e45" font-size="23">1</text>
+</g></svg>

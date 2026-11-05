@@ -1,0 +1,7 @@
+[
+  {"op":"write", "epoch":1, "seq":1, "recipe":"turbo"},
+  {"op":"scan"},
+  {"op":"observe", "epoch":1, "seq":1, "recipe":"turbo"},
+  {"op":"scan"},
+  {"op":"observe", "epoch":1, "seq":1, "recipe":"turbo"}
+]
